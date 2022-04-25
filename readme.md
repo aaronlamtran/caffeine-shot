@@ -7,6 +7,7 @@ This is a simple program written in python to move the mouse cursor.
 homebrew
 python3
 pyautogui
+code editor enabled accessibility rights
 
 In the project directory, you can run:
 
