@@ -1,19 +1,16 @@
-# mousemove
+# coffee
 
 This is a simple program written in python to move the mouse cursor.
 # Getting Started
 
 ### Prerequisites
-homebrew
-python3
-pyautogui
-code editor enabled accessibility rights
+homebrew,
+python3,
+pyautogui,
+xcode,
+terminal enabled accessibility rights
 
 In the project directory, you can run:
 
-### `pip3 mousemove.py`
-to move the mouse
-
-### `ctrl + c`
-to stop the program and stop moving the mouse
+### `make coffee`
 
